@@ -1,2 +1,2 @@
 # newEnglandSnowpack.github.io
-Current snowdepth at locations from around New England
+Webiste for looking at current snowdepth at locations from around New England.
